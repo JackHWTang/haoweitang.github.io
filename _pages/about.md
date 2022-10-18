@@ -12,7 +12,7 @@ I am a PhD candidate in the Department of Economics at Carleton University, and 
 
 My research interests are in macroeconometrics, causal inference, monetary policy and banking. 
 
-You can find my CV [here](https://github.com/JackHWTang/haoweitang.github.io.git/tree/master/files/CV_HWT_20221018.pdf).
+You can find my CV [here](https://github.com/JackHWTang/haoweitang.github.io/blob/master/files/CV_HWT_20221018.pdf).
 
 # Recent Presentations: #
  * 2022 NBER-NSF Time Series Conference, poster, September 23-24, 2022
