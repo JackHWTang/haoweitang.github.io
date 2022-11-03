@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Economics at Carleton University, and a Compliance Analyst at Canada Revenue Agency.
+I am a Ph.D. candidate in the Department of Economics at Carleton University, and a Compliance Analyst at the Canada Revenue Agency.
 
-My research interests are in macroeconometrics, causal inference, monetary policy and banking. 
+My research interests are in macro-econometrics, causal inference, monetary policy and banking. 
 
 You can find my CV [here](https://jackhwtang.github.io/webFiles/CV_HWT.pdf).
 
