@@ -12,7 +12,7 @@ I graduated from Carleton University in 2022 with a Ph.D. in Economics, and I am
 
 My research interests are in applied econometrics, causal inference, monetary policy and banking. 
 
-You can find my CV [here](https://jackhwtang.github.io/webFiles/CV_HWT.pdf).
+You can find my CV [here](https://jackhwtang.github.io/webFiles/CV_HWT_202501.pdf).
 
 # Recent Presentations: #
  * 18th International Joint Conference CFE-CMStatistics, December 14-16, 2024
